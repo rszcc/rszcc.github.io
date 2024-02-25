@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 About Me
 ======
-I am a Ph.D. candidate majoring in Ecology and Evolutionary Biology at University of Oklahoma (OU), working with the mentorship of Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en) at [Center for Earth Observation and Modeling (CEOM)]([https://pages.github.com](https://www.ceom.ou.edu/).
+I am a Ph.D. candidate majoring in Ecology and Evolutionary Biology at University of Oklahoma (OU), working with the mentorship of Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en) at Center for Earth Observation and Modeling [(CEOM)](https://www.ceom.ou.edu/).
 
 Research Interests
 ======
