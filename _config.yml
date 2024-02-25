@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chenchen Zhang / Ph.D. Candidate"
+title                    : "Chenchen Zhang / Personal Website"
 title_separator          : "-"
 name                     : &name "Chenchen Zhang"
 description              : &description "personal description"
@@ -24,7 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Chenchen Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "chenchen.zhang@ou.edu"
+  bio              : "chchenzhang95@gmail.com"
   #location         : "Earth"
   employer         : "University of Oklahoma"
   uri              : # URL
