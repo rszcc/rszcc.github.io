@@ -7,13 +7,13 @@ main:
     url: /talks/    
     
   - title: "Projects"
-    url: /projects/
+    url: /teaching/
   
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "Services & Outreach"
-    url: /services/
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
