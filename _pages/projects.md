@@ -111,7 +111,7 @@ author_profile: true
 - We analyzed the temporal and spatial response of groundwater depth to hydrometeorological factors (including precipitation, evaporation and runoff).
 - We explore the effects of geographical conditions (including landforms, soil texture and soil types) on the relationship between precipitation and groundwater using Geographical Detectors.
 - We evaluated the land reclamation and risk assessment in the coastal zone.
-- We investigated the erosion and sedimentation dynamics along the Yellow River Delta and its response to runoff-sedimentation fluxes
+- We investigated the erosion and sedimentation dynamics along the Yellow River Delta and its response to runoff-sedimentation fluxes.
 
  **Related publications**: 
  
