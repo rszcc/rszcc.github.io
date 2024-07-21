@@ -61,28 +61,42 @@ author_profile: true
 
 **Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
 
+1. Generate forest/non-forest map of northeast Thailand using 10m Sentinel-1 SAR data based on GEE platform.
+2. Define the appropriate window sizes for each individual texture feature of different spatial resolutions data when distinguishing rubber plantation from natural forest.
+3. Detect the planting year and pre-conversion land cover types of rubber plantation in northeastern Thailand.
 
 **Related publications**: 
 1. **Zhang, C.**, Huang, C., Li, H., Liu, Q., Li, J., Bridhikitti, A., & Liu, G. (2020). Effect of textural features in remote sensed data on rubber plantation extraction at different levels of spatial resolution. Forests, 11(4), 399. [[Full text]](https://doi.org/10.3390/f11040399)
-2. Huang, C., **Zhang, C.**, He, Y., Liu, Q., Li, H., Su, F., ... & Bridhikitti, A. (2020). Land cover mapping in cloud-prone tropical areas using Sentinel-2 data: Integrating spectral features with Ndvi temporal dynamics. Remote Sensing, 12(7), 1163. [[Full text]](https://doi.org/10.3390/rs12071163)
-3. Huang, C., **Zhang, C.**, Liu, Q., Li, H., Yang, X., & Liu, G. (2021). Multi-Feature Classification of Optical and SAR Remote Sensing Images for Typical Tropical Plantation Tree Species Classification, Scientia Silvae Sinicae, 57(7), 80-91. [[Full text]](http://www.linyekexue.net/EN/10.11707/j.1001-7488.20210709)
-4. Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of rubber plantation expansion on regional carbon storage based on time series remote sensing and the invest model. Remote Sensing, 14(24), 6234. [[Full text]](https://doi.org/10.3390/rs14246234)
-5. He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). Land-cover Classification of Random Forest Based on Sentinel- 2A Image Feature Optimization. Resources Science, 41(5), 992-1001. [[Full text]](https://www.resci.cn/EN/10.18402/resci.2019.05.15) 
+2. Huang, C., **Zhang, C.**, Liu, Q., Li, H., Yang, X., & Liu, G. (2021). Multi-Feature Classification of Optical and SAR Remote Sensing Images for Typical Tropical Plantation Tree Species Classification, Scientia Silvae Sinicae, 57(7), 80-91. [[Full text]](http://www.linyekexue.net/EN/10.11707/j.1001-7488.20210709)
+3. Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of rubber plantation expansion on regional carbon storage based on time series remote sensing and the invest model. Remote Sensing, 14(24), 6234. [[Full text]](https://doi.org/10.3390/rs14246234)
+
 
 
 **Related publications**: 
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing   Oct.2018-Jun.2020
-1. Generate forest/non-forest map of northeast Thailand using 10m Sentinel-1 SAR data based on GEE platform.
-2. Define the appropriate window sizes for each individual texture feature of different spatial resolutions data when distinguishing rubber plantation from natural forest.
-3. Detect the planting year and pre-conversion land cover types of rubber plantation in northeastern Thailand.
-Data Integration of Resource Development and Utilization in the Peripheral Area of South China Sea (Indochina Peninsula Region)                                                        Jul.2018-Jun. 2020
-1. Conduct the field survey of land cover in southeast Asia region. 
-2. Extract land cover information of Indochina Peninsula and its coastal zone in 2020 and 1990. 
-3. Quantify and analyze the land cover change in Indochina Peninsula between 1990 and 2020.
-Spatial-temporal Variability of Water and Salt and Its Impact on Agricultural Land Use in the Yellow River Delta                                                                                     Sept.2017-Oct. 2018
+
+
+##  Data Integration of Resource Development and Utilization in the Peripheral Area of South China Sea (Indochina Peninsula Region)
+
+**10/2018-06/2020**
+
+**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+
+- We conducted the field survey of land cover in southeast Asia region.
+- We generated land cover maps for Indochina Peninsula and its coastal zone using multi-source remote sensing and Machine Learning in 2020 and 1990. 
+- We quantified and analyzed the land cover changes in Indochina Peninsula between 1990 and 2020.
+
+ **Related publications**: 
+ 
+1. Huang, C., **Zhang, C.**, He, Y., Liu, Q., Li, H., Su, F., ... & Bridhikitti, A. (2020). Land cover mapping in cloud-prone tropical areas using Sentinel-2 data: Integrating spectral features with Ndvi temporal dynamics. Remote Sensing, 12(7), 1163. [[Full text]](https://doi.org/10.3390/rs12071163)
+2. He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). Land-cover Classification of Random Forest Based on Sentinel- 2A Image Feature Optimization. Resources Science, 41(5), 992-1001. [[Full text]](https://www.resci.cn/EN/10.18402/resci.2019.05.15)
+
+## Spatial-temporal Variability of Water and Salt and Its Impact on Agricultural Land Use in the Yellow River Delta    
+
+**09/2017-10/2018**
+
 1. Analyze the temporal and spatial response of groundwater depth to hydrometeorological factors (including precipitation, evaporation and runoff).
 2. Explore the effects of geographical conditions (including landforms, soil texture and soil types) on the relationship between precipitation and groundwater using Geographical Detectors.
 
