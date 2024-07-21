@@ -21,10 +21,8 @@ author_profile: true
 **Related publications**: 
 
 1. **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
-
 2. **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series
 2 optical, microwave, and thermal imagery. (Under review after revision)
-
 3. **Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
 ## Eucalyptus Plantation Mapping by Knowledge-based Algorithms and Multi-source Remote Sensing
@@ -42,11 +40,16 @@ author_profile: true
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-## 
+## Characterizing Urban Growth in Small and Medium-sized Cities
 
 **06/2020-07/2021**
 
 **Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+
+- While annual urban growth rates are declining in many highly urbanized regions of the world, Southeast Asia (SEA) is experiencing an accelerated urbanization process in small and medium-sized cities (SMCs), to which little attention has been paid.
+- Accurately extracting urban land information for SMCs in SEA has remained challenging, considering the lower urban land density, higher vegetation cover, and complex landscape mosaic.
+- This study systematically analyzed the capacities of a set of statistical indicators (SWIR1, SWIR2, NDVI, VV, and VH) of time-series optical and SAR images in impervious surface extraction.
+- Temporal rate of urban expansion,  urban land density variation, and sptial expansion patterns were analyzed.
 
 **Related publications**: 
 
@@ -66,10 +69,6 @@ author_profile: true
 4. Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of rubber plantation expansion on regional carbon storage based on time series remote sensing and the invest model. Remote Sensing, 14(24), 6234. [[Full text]](https://doi.org/10.3390/rs14246234)
 5. He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). Land-cover Classification of Random Forest Based on Sentinel- 2A Image Feature Optimization. Resources Science, 41(5), 992-1001. [[Full text]](https://www.resci.cn/EN/10.18402/resci.2019.05.15) 
 
-- This is a project I completed in the course **Environmental Remote Sensing** provided by _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_.
-- We explored the potential of the red edge bands of Sentinel-2 for Eucalyptus plantation mapping.
-- We integrated PALSAR-2, Sentinel-2, Landsat 7/8 to develop Eucalyptus mapping algorithm.
-- We developed a knowledge-based Eucalyptus mapping algorithm.
 
 **Related publications**: 
 
