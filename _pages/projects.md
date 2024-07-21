@@ -40,21 +40,6 @@ author_profile: true
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-# Fine Paddy Rice Planting Structure Algorithm Development
-
-**01/2020-07/2021**
-
-**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
-- We developed a rice planting structure (single-season rice, double season rice) extraction algorithm by integrating Dynamic Time Warping (DTW), time series statistical features, and Random Forest.
-- We developed a robust method combining phenological metrics and statistical spectral indices at different phases for stratified rice paddy mapping in rice-wetland coexistent areas.
-- We monitored the rice cultivation changes in the Yellow River Delta (YRD) over the past decade.
-- We analyzed the impact of rice cultivation expansion on ecological conservation in the YRD in the context of water scarcity.
-
-**Related publications**: 
-
-1. Huang, C., **Zhang, C.<sup>1</sup>** (2023). Time‐series remote sensing of rice paddy expansion in the Yellow River Delta: Towards sustainable ecological conservation in the context of water scarcity. Remote Sensing in Ecology and Conservation, 9(4), 454-468. [[Full text]](https://doi.org/10.1002/rse2.320)
-2. Huang, C., Xu, Z., **Zhang, C.**, Li, H., Liu, Q., Yang, Z., & Liu, G. (2020). Extraction of rice planting structure in tropical region based on Sentinel-1 temporal features integration. Transactions of the Chinese Society of Agricultural Engineering, 36(9), 177-184. [[Full text]](http://tsg.tcsae.org/nygcxb/article/abstract/20200920?st=search)
-
 
 ## Characterizing Urban Growth in Small and Medium-sized Cities
 
@@ -70,6 +55,22 @@ author_profile: true
 **Related publications**: 
 
 1. Huang, C., **Zhang, C.<sup>1</sup>** (2022). Characterizing urban growth in Vientiane from 2000 to 2019 using time-series optical and SAR-based estimates of urban land. International Journal of Applied Earth Observation and Geoinformation, 109, 102798. [[Full text]](https://doi.org/10.1016/j.jag.2022.102798) (**<sup>1</sup>Equal contribution**)
+
+# Fine Paddy Rice Planting Structure Algorithm Development
+
+**01/2020-07/2021**
+
+**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+- We developed a rice planting structure (single-season rice, double season rice) extraction algorithm by integrating Dynamic Time Warping (DTW), time series statistical features, and Random Forest.
+- We developed a robust method combining phenological metrics and statistical spectral indices at different phases for stratified rice paddy mapping in rice-wetland coexistent areas.
+- We monitored the rice cultivation changes in the Yellow River Delta (YRD) over the past decade.
+- We analyzed the impact of rice cultivation expansion on ecological conservation in the YRD in the context of water scarcity.
+
+**Related publications**: 
+
+1. Huang, C., **Zhang, C.<sup>1</sup>** (2023). Time‐series remote sensing of rice paddy expansion in the Yellow River Delta: Towards sustainable ecological conservation in the context of water scarcity. Remote Sensing in Ecology and Conservation, 9(4), 454-468. [[Full text]](https://doi.org/10.1002/rse2.320)
+2. Huang, C., Xu, Z., **Zhang, C.**, Li, H., Liu, Q., Yang, Z., & Liu, G. (2020). Extraction of rice planting structure in tropical region based on Sentinel-1 temporal features integration. Transactions of the Chinese Society of Agricultural Engineering, 36(9), 177-184. [[Full text]](http://tsg.tcsae.org/nygcxb/article/abstract/20200920?st=search)
+
 
 ## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing
 
@@ -87,14 +88,6 @@ author_profile: true
 2. Huang, C., **Zhang, C.**, Liu, Q., Li, H., Yang, X., & Liu, G. (2021). Multi-Feature Classification of Optical and SAR Remote Sensing Images for Typical Tropical Plantation Tree Species Classification, Scientia Silvae Sinicae, 57(7), 80-91. [[Full text]](http://www.linyekexue.net/EN/10.11707/j.1001-7488.20210709)
 3. Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of rubber plantation expansion on regional carbon storage based on time series remote sensing and the invest model. Remote Sensing, 14(24), 6234. [[Full text]](https://doi.org/10.3390/rs14246234)
 4. Li, H., He, Z., Huang, C., Liu, Q., Liu, G., & **Zhang, C.** (2021). Spatiotemporal evolution of rubber forests in southern Myanmar during 2000-2019. Resources Science, 43(12), 2403-2415. [[Full text]](https://www.resci.cn/EN/10.18402/resci.2021.12.04)
-
-5. 
-
-**Related publications**: 
-
-1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
-
-
 
 ##  Data Integration of Resource Development and Utilization in the Peripheral Area of South China Sea (Indochina Peninsula Region)
 
