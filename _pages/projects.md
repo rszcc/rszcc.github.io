@@ -26,7 +26,25 @@ author_profile: true
 
 3. **Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
+## Eucalyptus plantation Mapping by Knowledge-based Algorithms and Multi-source Remote Sensing
 
+**04/2022-05/2023**
+
+**Advisor**: _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_
+
+- This is a project I completed in the course **Environmental Remote Sensing** provided by _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_.
+- We explored the potential of the red edge bands of Sentinel-2 for Eucalyptus plantation mapping.
+- We integrated PALSAR-2, Sentinel-2, Landsat 7/8 to develop Eucalyptus mapping algorithm.
+- We developed a knowledge-based Eucalyptus mapping algorithm.
+
+**Related publications**: 
+
+1. **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
+
+2. **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series
+2 optical, microwave, and thermal imagery. (Under review after revision)
+
+3. **Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
 啊好麻烦啊不想改。。。。
 
