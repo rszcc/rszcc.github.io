@@ -108,18 +108,114 @@ Li, H., Huang, C., **Zhang, C.**, Liu, Q., & Liu, G. (2020). Coastal Erosion and
 He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). Land-cover Classification of Random Forest Based on Sentinel- 2A Image Feature Optimization. Resources Science, 41(5), 992-1001. DOI: 10.18402/resci.2019.05.15
 
 
-Talks
+Conference Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**2024**
+
+  - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, August). Mapping paddy rice with a knowledge-based algorithm and time series optical, microwave, and thermal imagery, ESA annual meeting 2024. (PS 36-005). Long Beach, CA, USA (Poster)
+  - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, April). Mapping paddy rice with an enhanced knowledge-based algorithm and time series optical (Sentinel-2 and Landsat), microwave (Sentinel-1), and thermal (MODIS) imagery. IALE-North America Annual Meeting 2024 (P-46). Oklahoma City, OK, USA (Poster) [**Best Student Poster**](https://www.ialena.org/awards.html)
+
+**2023**
+
+  - **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Meng, C., Yin, S., & Yao, Y. (2023, December). Surface Water Body Dynamics in Northeast Asia During 2015-2022 Using Time Series Landsat and Sentinel-2 Images. AGU Fall Meeting 2023 (GC31J-1163). San Francisco, CA, USA (Poster)
+
+**2022**
+
+  - **Zhang, C.**, Xiao, X., Qin, Y., & Yang, X. (2022, December). Annual Maps of Surface Water Body, Paddy Rice, and Wetlands in Northeast China Using PALSAR, Sentinel-1, Sentinel-2, Landsat, and MODIS Imagery in 2020. AGU Fall Meeting 2022 (B42J-1749). Chicago, IL, USA (Poster)
+  - **Zhang, C.**, Xiao, X., Qin, Y., & Yang, X. (2022, December). Mapping Eucalyptus Plantation in Guangxi, China Using PALSAR-2, Sentinel-2, and Landsat Images in 2020. AGU Fall Meeting 2022 (C32F-0678). Chicago, IL, USA (Poster)
+  - **Zhang, C.** (2022, September). Annual maps of surface water, paddy rice, and wetlands in Northeast China using multiple remote sensing data in 2020 Microbiology and Plant Biology Seminar. Norman, OK, USA (Oral presentation)
+
+**2018**
+  - **Zhang, C.**, Huang C. (2018, July). Study on Groundwater Variation Characteristics and Influencing Factors in the Yellow River Delta. 19th Cross-strait Symposium on Environment, Resources and Ecological Conservation. Guizhou, China (Oral presentation)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Spring2024**
+
+  **GIS/PBIO 4733/5733 Environmental Remote Sensing**
+- I served as an instructor for Hyperspectral and Multispectral Remote Sensing, including in-class lectures and field measurement of Spectroradiometer PSR 3500+, FieldSpec®3 ASD, and LAI 2200. I also assisted with Google Earth Engine (GEE) Module for data processing and land cover classification lectures. I was responsible for grading weekly textbook or article reading reports (15 weeks), grading student project reports, and designing and grading exams.
+
+**Spring2023**
+
+  **GIS/PBIO 4733/5733 Environmental Remote Sensing**
+- I served as an instructor for Hyperspectral and Multispectral Remote Sensing, including in-class lectures and field measurement of Spectroradiometer PSR 3500+, FieldSpec®3 ASD, and LAI 2200. I also assisted with Google Earth Engine (GEE) Module for data processing and land cover classification lectures. I was responsible for grading weekly textbook or article reading reports (15 weeks), grading student project reports, and designing and grading exams.
   
-Service and leadership
+Services and Outreach
 ======
-* Currently signed in to 43 different slack teams
+**Scientific workshops**
+
+* **2022-2024** I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 61 webinars by July 2024. 
+
+**Scientific conferences**
+
+* **2024** I served as a Student/Early Career Convener for the American
+Geophysical Union 2023 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
+
+* **2023** I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the American
+Geophysical Union 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
+
+**Journal referee**
+
+  * _ISPRS Journal of Photogrammetry and Remote Sensing_
+  
+  * _IEEE Transactions on Geoscience and Remote Sensing_
+  
+  * _Journal of Environmental Management_
+   
+  * _Scientific Data_
+  
+  * _Science of Remote Sensing_
+  
+  * _Remote Sensing_
+  
+ * _Journal of Plant Ecology_
+  
+ * _Ecosystem Health and Sustainability_
+  
+ * _Journal of Environmental Engineering and Landscape Management_
+  
+ * _Environmental Research Communications_
+  
+ * _Atmosphere_
+  
+ * _Land_
+  
+ * _All Earth_
+
+Honors and Awards
+======
+**2024**
+
+* Best Student Poster Presentation, International Association for Landscape Ecology–North America (IALE-NA) annual meeting 2024
+
+* Robberson Conference Presentation and Creative Exhibition Travel Grant, University of Oklahoma (OU)
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+* Graduate Student Senate (GSS) Conference Grant, OU
+  
+**2023**
+
+* Robberson Conference Presentation and Creative Exhibition Travel Grant, OU
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+**2022**
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+**2020**
+
+* Outstanding Master Graduate Award, IGSNRR, Chinese Academy of Sciences
+
+**2017**
+
+* Outstanding Undergraduate Thesis Award, Beijing Forestry University
+
+Professional Affiliations
+======
+* American Geophysical Union (AGU) (2022-)
+  
+* Ecological Society of America (ESA) (2024-)
+  
+* International Association for Landscape Ecology–North America (IALE-NA) (2024-)
