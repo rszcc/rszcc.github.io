@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /projects/
 title: "Reserach Projects"
 author_profile: true
