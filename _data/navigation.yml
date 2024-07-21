@@ -5,12 +5,15 @@ main:
 
   - title: "Conferences"
     url: /talks/    
-
+    
+  - title: "Projects"
+    url: /projects/
+  
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "Services & Outreach"
-    url: /portfolio/
+    url: /services/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
