@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /terms/
+    url: /projects/
     
   # - title: "Conferences"
   #   url: /talks/    
@@ -14,7 +14,7 @@ main:
   #   url: /teaching/    
     
   - title: "Services & Outreach"
-    url: /portfolio/
+    url: /services/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -23,4 +23,4 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
