@@ -78,10 +78,10 @@ author_profile: true
 
 **Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
 
-1. We develped Machine Learning based forest mapping algorithm by temporal statistical characteristics and time series Sentinel-1 imagery.
-2. We explored the appropriate window sizes for each individual texture feature of different spatial resolutions data when distinguishing rubber plantation from natural forest.
-3. We detected the planting year and pre-conversion land cover types of rubber plantation by improving Shapelet algorithom.
-4. We assessed the impact of rubber plantation expansion on regional carbon storage.
+- We develped Machine Learning based forest mapping algorithm by temporal statistical characteristics and time series Sentinel-1 imagery.
+- We explored the appropriate window sizes for each individual texture feature of different spatial resolutions data when distinguishing rubber plantation from natural forest.
+- We detected the planting year and pre-conversion land cover types of rubber plantation by improving Shapelet algorithom.
+- We assessed the impact of rubber plantation expansion on regional carbon storage.
 
 **Related publications**: 
 1. **Zhang, C.**, Huang, C., Li, H., Liu, Q., Li, J., Bridhikitti, A., & Liu, G. (2020). Effect of textural features in remote sensed data on rubber plantation extraction at different levels of spatial resolution. Forests, 11(4), 399. [[Full text]](https://doi.org/10.3390/f11040399)
