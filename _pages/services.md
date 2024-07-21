@@ -18,7 +18,7 @@ Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, driv
 
 **2023**
 
-* I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
+* I served as a **Student/Early Career Convener** and **Outstanding Student Presentation Awards (OSPA) Liaisons** for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
 
 ## Journal referee
 
