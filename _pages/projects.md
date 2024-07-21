@@ -11,7 +11,11 @@ author_profile: true
 
 **Advisor**: _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_
 
-I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)]((https://www.ceom.ou.edu/outreach/workshops/content/10)) and have held 61 webinars by July 2024. 
+- The **overall aim** is to enhance our understanding of the impacts of changing climate and increasing human activities on the dynamics of water-related land cover types.
+ - **Aim 1**: Develop robust water-related land cover mapping algorithms and generate accurate annual maps in Northeast Asia using multi-source (optical, SAR, thermal) remote sensing.
+ - **Aim 2**: 
+
+
 
 **Related publications**: 
 
