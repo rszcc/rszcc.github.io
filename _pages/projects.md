@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Reserach Projects"
 author_profile: true
 ---
-好麻烦啊不想改。。。
+
 ## Water-related Land Cover Dynamics in Northeast Asia Under Climate Change and Anthropogenic Activities
 
 **08/2021-present**
@@ -40,21 +40,20 @@ author_profile: true
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-# Fine 
+# Fine Paddy Rice Planting Structure Algorithm Development
 
 **01/2020-07/2021**
 
 **Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
-
-
+- We developed a rice planting structure (single-season rice, double season rice) extraction algorithm by integrating Dynamic Time Warping (DTW), time series statistical features, and Random Forest.
+- We developed a robust method combining phenological metrics and statistical spectral indices at different phases for stratified rice paddy mapping in rice-wetland coexistent areas.
+- We monitored the rice cultivation changes in the Yellow River Delta (YRD) over the past decade.
+- We analyzed the impact of rice cultivation expansion on ecological conservation in the YRD in the context of water scarcity.
 
 **Related publications**: 
 
 1. Huang, C., **Zhang, C.<sup>1</sup>** (2023). Time‐series remote sensing of rice paddy expansion in the Yellow River Delta: Towards sustainable ecological conservation in the context of water scarcity. Remote Sensing in Ecology and Conservation, 9(4), 454-468. [[Full text]](https://doi.org/10.1002/rse2.320)
 2. Huang, C., Xu, Z., **Zhang, C.**, Li, H., Liu, Q., Yang, Z., & Liu, G. (2020). Extraction of rice planting structure in tropical region based on Sentinel-1 temporal features integration. Transactions of the Chinese Society of Agricultural Engineering, 36(9), 177-184. [[Full text]](http://tsg.tcsae.org/nygcxb/article/abstract/20200920?st=search)
-
-
-
 
 
 ## Characterizing Urban Growth in Small and Medium-sized Cities
