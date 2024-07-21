@@ -15,6 +15,7 @@ Research Interests
  - Impacts of climate change and extreme events on land surface dynamics
  - GeoAI
 
+
 News :)
 ======
  - [Jul. 2024] I just received a Robberson Travel Grant to attend the Ecological Society of America (ESA) 2024 Annual Meeting in Long Beach, CA in August.
