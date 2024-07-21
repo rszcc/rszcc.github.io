@@ -16,16 +16,8 @@ I serve as the contact person and moderator for the International Forum on Ecolo
 
 
 
-## Scientific conferences
+啊好麻烦啊不想改。。。。
 
-**2024**
-
-* I served as a **Student/Early Career Convener** for the American
-Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
-
-**2023**
-
-* I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
 
 1. Define and divide wetlands into subcategories in terms of vegetation types (grass, shrub, and tree), leaf trait (evergreen, deciduous, and annual), and canopy structure (open canopy and closed canopy)
 2. Develop mapping algorithms to identify each wetland categories integrating images from multiply satellites.
