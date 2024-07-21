@@ -50,7 +50,7 @@ author_profile: true
 
 **Related publications**: 
 
-1. Huang, C., **Zhang, C.<sup>1</sup>** (2022). Characterizing urban growth in Vientiane from 2000 to 2019 using time-series optical and SAR-based estimates of urban land. International Journal of Applied Earth Observation and Geoinformation, 109, 102798. [[Full text]](https://doi.org/10.1016/j.jag.2022.102798)
+1. Huang, C., **Zhang, C.<sup>1</sup>** (2022). Characterizing urban growth in Vientiane from 2000 to 2019 using time-series optical and SAR-based estimates of urban land. International Journal of Applied Earth Observation and Geoinformation, 109, 102798. [[Full text]](https://doi.org/10.1016/j.jag.2022.102798) (**<sup>1</sup>Equal contribution**)
 
 ## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing
 
