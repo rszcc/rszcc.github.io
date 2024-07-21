@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: ""
+title: "Services and Outreach"
 author_profile: true
 ---
 
