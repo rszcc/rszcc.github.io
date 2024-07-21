@@ -129,7 +129,7 @@ Conference Presentations
   - **Zhang, C.** (2022, September). Annual maps of surface water, paddy rice, and wetlands in Northeast China using multiple remote sensing data in 2020 Microbiology and Plant Biology Seminar. Norman, OK, USA (Oral presentation)
 
 **2018**
-  - **Zhang, C.**, Huang C. (2018, July). Study on Groundwater Variation Characteristics and Influencing Factors in the Yellow River Delta. 19th Cross-strait Symposium on Environment, Resources and Ecological Conservation. Guizhou, China (Oral presentation)
+  - **Zhang, C.**, Huang C. (2018, July). Groundwater Variation Characteristics and Influencing Factors in the Yellow River Delta. 19th Cross-strait Symposium on Environment, Resources and Ecological Conservation. Guizhou, China (Oral presentation)
   
 Teaching
 ======
