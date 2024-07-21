@@ -11,4 +11,7 @@ I am a Ph.D. candidate majoring in Ecology and Evolutionary Biology at Universit
 
 Research Interests
 ======
- - 
+ - Land use and land cover mapping under multi-source remote sensing
+ - Impacts of climate change and extreme events on land surface dynamics
+ - GeoAI
+
