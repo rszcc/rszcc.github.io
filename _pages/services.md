@@ -22,3 +22,28 @@ Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, driv
 
 ## Journal referee
 
+  * _ISPRS Journal of Photogrammetry and Remote Sensing_
+  
+  * _IEEE Transactions on Geoscience and Remote Sensing_
+  
+  * _Journal of Environmental Management_
+   
+  * _Scientific Data_
+  
+  * _Science of Remote Sensing_
+  
+  * _Remote Sensing_
+  
+ * _Journal of Plant Ecology_
+  
+ * _Ecosystem Health and Sustainability_
+  
+ * _Journal of Environmental Engineering and Landscape Management_
+  
+ * _Environmental Research Communications_
+  
+ * _Atmosphere_
+  
+ * _Land_
+  
+ * _All Earth_
