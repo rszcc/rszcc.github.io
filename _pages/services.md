@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /services/
 title: "Services and Outreach"
 author_profile: true
