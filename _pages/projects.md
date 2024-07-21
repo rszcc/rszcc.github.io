@@ -42,18 +42,23 @@ author_profile: true
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing   Oct.2018-Jun.2020
+## 
 
 **06/2020-07/2021**
+
+**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+
 **Related publications**: 
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing   Oct.2018-Jun.2020
+## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing
 
 **10/2018-06/2020**
 
-**Advisor**: _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_
+**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+
+
 
 - This is a project I completed in the course **Environmental Remote Sensing** provided by _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_.
 - We explored the potential of the red edge bands of Sentinel-2 for Eucalyptus plantation mapping.
