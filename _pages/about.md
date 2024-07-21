@@ -15,6 +15,13 @@ Research Interests
  - Impacts of climate change and extreme events on land surface dynamics
  - GeoAI
 
+**[Projects](https://rszcc.github.io//projects/)**
+
+**[Services & Outreach](https://rszcc.github.io//services/)**
+
+**[Full CV](https://rszcc.github.io//cv/)**
+
+**[Contact](https://rszcc.github.io//contact/)**
 
 News 🌟
 ======
