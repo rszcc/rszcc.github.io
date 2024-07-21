@@ -1,13 +1,4 @@
----
-layout: archive
-title: "Full CV download [here](files/CV_Chenchen Zhang_full_20240718.pdf)"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
 
 Education
 ======
