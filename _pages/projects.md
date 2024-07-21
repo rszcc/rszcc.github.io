@@ -12,10 +12,10 @@ author_profile: true
 **Advisor**: _Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en)_
 
 - The **overall aim** is to enhance our understanding of the impacts of changing climate and increasing human activities on the dynamics of water-related land cover types.
- - We have developed a set of knowledge-based water-related land cover (yearlong surface water, paddy rice, natural wetlands) mapping algorithms by integrating multi-source (optical, SAR, thermal) remote sensing.
+ - Water related land cover types include yearlong surface water, paddy rice, and natural wetlands.
+ - We have developed a set of knowledge-based water-related land cover mapping algorithms based on each type's unique and stable optical and/or microwave signatures (associated with its biophysical features), by integrating multi-source (optical, SAR, thermal) remote sensing.
  - We consider the remote sensing capability and define water-related land cover  types in terms of plant growth form (tree, shrub, grass), life cycle (perennial, annual), leaf seasonality (evergreen, deciduous), and canopy type (open, closed).
  - We have constructed a water/non-water database to study the surface and terrestrial water resources dynamics in Northeast Asia during 2000-2023. We have explored the impacts of climate and anthropogenic factors on water resources, and the pressures of water resource changes on populations.
-
 
 **Related publications**: 
 
