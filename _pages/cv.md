@@ -38,6 +38,36 @@ Research Interests
 - Impacts of climate change and extreme events on land surface dynamics
 - GeoAI
 
+Honors and Awards
+======
+**2024**
+
+* [Best Student Poster Presentation](https://www.ialena.org/awards.html), International Association for Landscape Ecology–North America (IALE-NA) annual meeting 2024
+
+* Robberson Conference Presentation and Creative Exhibition Travel Grant, University of Oklahoma (OU)
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+* Graduate Student Senate (GSS) Conference Grant, OU
+  
+**2023**
+
+* Robberson Conference Presentation and Creative Exhibition Travel Grant, OU
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+**2022**
+
+* Kenneth & Joye Harwell Endowed Scholarship, OU
+
+**2020**
+
+* Outstanding Master Graduate Award, IGSNRR, Chinese Academy of Sciences
+
+**2017**
+
+* Outstanding Undergraduate Thesis Award, Beijing Forestry University
+  
 
 Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/citations?user=btas8y0AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Chenchen-Zhang-28))
 ======
@@ -46,6 +76,11 @@ Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/cita
 **2024**
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
+
+**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series
+2 optical, microwave, and thermal imagery. (Under review after revision)
+
+**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
 **2023**
 
@@ -64,14 +99,6 @@ Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of
 **Zhang, C.**, Huang, C., Li, H., Liu, Q., Li, J., Bridhikitti, A., & Liu, G. (2020). Effect of textural features in remote sensed data on rubber plantation extraction at different levels of spatial resolution. Forests, 11(4), 399. [[Full text]](https://doi.org/10.3390/f11040399)
 
 **Zhang, C.**, Huang, C., He, Y., Liu, Q., Li, H., Wu, C., &Liu, G. (2020). An analysis of the space-time patterns of precipitation-shallow groundwater depth interactions in the Yellow River Delta. Hydrogeology & Engineering Geology, 47(5), 21-30. [[Full text]](https://www.swdzgcdz.com/en/article/doi/10.16030/j.cnki.issn.1000-3665.202002033)
-
-**Under Review and In Preparation** 
-
-**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series
-2 optical, microwave, and thermal imagery. (Under review after revision)
-
-**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
-
 
 **Co-author** 
 
@@ -182,36 +209,6 @@ Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, driv
  * _Land_
   
  * _All Earth_
-
-Honors and Awards
-======
-**2024**
-
-* [Best Student Poster Presentation](https://www.ialena.org/awards.html), International Association for Landscape Ecology–North America (IALE-NA) annual meeting 2024
-
-* Robberson Conference Presentation and Creative Exhibition Travel Grant, University of Oklahoma (OU)
-
-* Kenneth & Joye Harwell Endowed Scholarship, OU
-
-* Graduate Student Senate (GSS) Conference Grant, OU
-  
-**2023**
-
-* Robberson Conference Presentation and Creative Exhibition Travel Grant, OU
-
-* Kenneth & Joye Harwell Endowed Scholarship, OU
-
-**2022**
-
-* Kenneth & Joye Harwell Endowed Scholarship, OU
-
-**2020**
-
-* Outstanding Master Graduate Award, IGSNRR, Chinese Academy of Sciences
-
-**2017**
-
-* Outstanding Undergraduate Thesis Award, Beijing Forestry University
 
 Professional Affiliations
 ======
