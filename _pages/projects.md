@@ -40,38 +40,6 @@ author_profile: true
 
 1. **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
 
-
-## Characterizing Urban Growth in Small and Medium-sized Cities
-
-**06/2020-07/2021**
-
-**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
-
-- While annual urban growth rates are declining in many highly urbanized regions of the world, Southeast Asia (SEA) is experiencing an accelerated urbanization process in small and medium-sized cities (SMCs), to which little attention has been paid.
-- Accurately extracting urban land information for SMCs in SEA has remained challenging, considering the lower urban land density, higher vegetation cover, and complex landscape mosaic.
-- This study systematically analyzed the capacities of a set of statistical indicators (SWIR1, SWIR2, NDVI, VV, and VH) of time-series optical and SAR images in impervious surface extraction.
-- Temporal rate of urban expansion,  urban land density variation, and sptial expansion patterns were analyzed.
-
-**Related publications**: 
-
-1. Huang, C., **Zhang, C.<sup>1</sup>** (2022). Characterizing urban growth in Vientiane from 2000 to 2019 using time-series optical and SAR-based estimates of urban land. International Journal of Applied Earth Observation and Geoinformation, 109, 102798. [[Full text]](https://doi.org/10.1016/j.jag.2022.102798) (**<sup>1</sup>Equal contribution**)
-
-# Fine Paddy Rice Planting Structure Algorithm Development
-
-**01/2020-07/2021**
-
-**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
-- We developed a rice planting structure (single-season rice, double season rice) extraction algorithm by integrating Dynamic Time Warping (DTW), time series statistical features, and Random Forest.
-- We developed a robust method combining phenological metrics and statistical spectral indices at different phases for stratified rice paddy mapping in rice-wetland coexistent areas.
-- We monitored the rice cultivation changes in the Yellow River Delta (YRD) over the past decade.
-- We analyzed the impact of rice cultivation expansion on ecological conservation in the YRD in the context of water scarcity.
-
-**Related publications**: 
-
-1. Huang, C., **Zhang, C.<sup>1</sup>** (2023). Time‐series remote sensing of rice paddy expansion in the Yellow River Delta: Towards sustainable ecological conservation in the context of water scarcity. Remote Sensing in Ecology and Conservation, 9(4), 454-468. [[Full text]](https://doi.org/10.1002/rse2.320)
-2. Huang, C., Xu, Z., **Zhang, C.**, Li, H., Liu, Q., Yang, Z., & Liu, G. (2020). Extraction of rice planting structure in tropical region based on Sentinel-1 temporal features integration. Transactions of the Chinese Society of Agricultural Engineering, 36(9), 177-184. [[Full text]](http://tsg.tcsae.org/nygcxb/article/abstract/20200920?st=search)
-
-
 ## Detection of Planting Distribution and Change of Rubber Plantation in Northeast Thailand Based on High Spatial and Temporal Resolution Series Remote Sensing
 
 **10/2018-06/2020**
@@ -91,17 +59,25 @@ author_profile: true
 
 ##  Data Integration of Resource Development and Utilization in the Peripheral Area of South China Sea (Indochina Peninsula Region)
 
-**10/2018-06/2020**
+**10/2018-08/2021**
 
 **Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
 
 - We conducted the field survey of land cover in southeast Asia region.
 - We generated land cover maps for Indochina Peninsula and its coastal zone using multi-source remote sensing and Machine Learning in 2020 and 1990. 
 - We quantified and analyzed the land cover changes in Indochina Peninsula between 1990 and 2020.
+- We developed a rice planting structure (single-season rice, double-season rice) extraction algorithm by integrating Dynamic Time Warping (DTW), time series statistical features, and Random Forest.
+- We developed a robust method combining phenological metrics and statistical spectral indices at different phases for stratified rice paddy mapping in rice-wetland coexistent areas.
+- We monitored the rice cultivation changes in the Yellow River Delta (YRD) over the past decade.
+- We analyzed the impact of rice cultivation expansion on ecological conservation in the YRD in the context of water scarcity.
+- We systematically analyzed the capacities of a set of statistical indicators (SWIR1, SWIR2, NDVI, VV, and VH) of time-series optical and SAR images in impervious surface extraction, and analyzed temporal rate of urban expansion,  urban land density variation, and sptial expansion patterns.
 
- **Related publications**: 
- 
-1. Huang, C., **Zhang, C.**, He, Y., Liu, Q., Li, H., Su, F., ... & Bridhikitti, A. (2020). Land cover mapping in cloud-prone tropical areas using Sentinel-2 data: Integrating spectral features with Ndvi temporal dynamics. Remote Sensing, 12(7), 1163. [[Full text]](https://doi.org/10.3390/rs12071163)
+**Related publications**: 
+
+1. Huang, C., **Zhang, C.<sup>1</sup>** (2022). Characterizing urban growth in Vientiane from 2000 to 2019 using time-series optical and SAR-based estimates of urban land. International Journal of Applied Earth Observation and Geoinformation, 109, 102798. [[Full text]](https://doi.org/10.1016/j.jag.2022.102798) (**<sup>1</sup>Equal contribution**)
+1. Huang, C., **Zhang, C.<sup>1</sup>** (2023). Time‐series remote sensing of rice paddy expansion in the Yellow River Delta: Towards sustainable ecological conservation in the context of water scarcity. Remote Sensing in Ecology and Conservation, 9(4), 454-468. [[Full text]](https://doi.org/10.1002/rse2.320)
+2. Huang, C., Xu, Z., **Zhang, C.**, Li, H., Liu, Q., Yang, Z., & Liu, G. (2020). Extraction of rice planting structure in tropical region based on Sentinel-1 temporal features integration. Transactions of the Chinese Society of Agricultural Engineering, 36(9), 177-184. [[Full text]](http://tsg.tcsae.org/nygcxb/article/abstract/20200920?st=search)
+3. Huang, C., **Zhang, C.**, He, Y., Liu, Q., Li, H., Su, F., ... & Bridhikitti, A. (2020). Land cover mapping in cloud-prone tropical areas using Sentinel-2 data: Integrating spectral features with Ndvi temporal dynamics. Remote Sensing, 12(7), 1163. [[Full text]](https://doi.org/10.3390/rs12071163)
 2. He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). Land-cover Classification of Random Forest Based on Sentinel- 2A Image Feature Optimization. Resources Science, 41(5), 992-1001. [[Full text]](https://www.resci.cn/EN/10.18402/resci.2019.05.15)
 
 ## Spatial-temporal Variability of Water and Salt and Its Impact on Agricultural Land Use in the Yellow River Delta    
