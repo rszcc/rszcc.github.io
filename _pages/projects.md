@@ -84,6 +84,8 @@ author_profile: true
 
 **09/2017-10/2019**
 
+**Advisor**: _Prof. [Chong Huang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201404/t20140411_4088717.html)_
+
 - We analyzed the temporal and spatial response of groundwater depth to hydrometeorological factors (including precipitation, evaporation and runoff).
 - We explore the effects of geographical conditions (including landforms, soil texture and soil types) on the relationship between precipitation and groundwater using Geographical Detectors.
 - We evaluated the land reclamation and risk assessment in the coastal zone.
