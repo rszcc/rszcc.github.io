@@ -11,7 +11,7 @@ Hi! I am a Ph.D. candidate majoring in Ecology and Evolutionary Biology at Unive
 
 Research Interests
 ======
- - Land use and land cover mapping under multi-source remote sensing
+ - Land use and land cover mapping under multi-source remote sensing, with focus on water-related land covers (surface water bodies, agricultural wetlands, natural wetlands), forest, and urban.
  - Impacts of climate change and extreme events on land surface dynamics
  - GeoAI
 
