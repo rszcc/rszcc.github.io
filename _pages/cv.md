@@ -46,6 +46,8 @@ Honors and Awards
 
 * Robberson Conference Presentation and Creative Exhibition Travel Grant, University of Oklahoma (OU)
 
+* OU Dodge Family College of Arts and Sciences (DFCAS) Student Travel Grant
+  
 * Kenneth & Joye Harwell Endowed Scholarship, OU
 
 * Graduate Student Senate (GSS) Conference Grant, OU
