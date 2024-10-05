@@ -25,6 +25,7 @@ Research Interests
 
 News 🌟
 ======
+ - [**Oct. 2024**] I just received the Cindy and Jizhong Zhou Graduate Student and Postdoctoral Award in Environmental Science and Technology, many thanks to Dr. Zhou and his wife!
  - [**Agu. 2024**] I also received an OU Dodge Family College of Arts and Sciences (DFCAS) Student Travel Grant to attend the ESA meeting in Long Beach, CA.
  - [**Jul. 2024**] I just received a Robberson Travel Grant to attend the Ecological Society of America (ESA) 2024 Annual Meeting in Long Beach, CA in August.
  - [**May 2024**] Happy to share good news! I am awarded the [Best Student Poster Presentation](https://www.ialena.org/awards.html) at IALE-NA annual meeting 2024!
