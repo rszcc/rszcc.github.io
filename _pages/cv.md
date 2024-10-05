@@ -43,6 +43,7 @@ Honors and Awards
 **2024**
 
 * [Best Student Poster Presentation](https://www.ialena.org/awards.html), International Association for Landscape Ecology–North America (IALE-NA) annual meeting 2024
+* Cindy and Jizhong Zhou Graduate Student and Postdoctoral Award in Environmental Science and Technology
 
 * Robberson Conference Presentation and Creative Exhibition Travel Grant, University of Oklahoma (OU)
 
