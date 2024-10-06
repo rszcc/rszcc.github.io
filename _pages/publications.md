@@ -9,6 +9,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 First Author and Co-first Author(<sup>1</sup>Equal contribution)
 ======
+Under Review and In Preparation
+======
+
+**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
+
+**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
 **2024**
 
@@ -31,15 +37,6 @@ Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of
 **Zhang, C.**, Huang, C., Li, H., Liu, Q., Li, J., Bridhikitti, A., & Liu, G. (2020). Effect of textural features in remote sensed data on rubber plantation extraction at different levels of spatial resolution. Forests, 11(4), 399. [[Full text]](https://doi.org/10.3390/f11040399)
 
 **Zhang, C.**, Huang, C., He, Y., Liu, Q., Li, H., Wu, C., &Liu, G. (2020). An analysis of the space-time patterns of precipitation-shallow groundwater depth interactions in the Yellow River Delta. Hydrogeology & Engineering Geology, 47(5), 21-30. [[Full text]](https://www.swdzgcdz.com/en/article/doi/10.16030/j.cnki.issn.1000-3665.202002033)
-
-Under Review and In Preparation
-======
-
-**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series
-2 optical, microwave, and thermal imagery. (Under review after revision)
-
-**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
-
 
 Co-author
 ======
