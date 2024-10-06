@@ -7,8 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=btas8y0AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Chenchen-Zhang-28).
 
-First Author and Co-first Author(<sup>1</sup>Equal contribution)
-======
+
 Under Review and In Preparation
 ======
 
@@ -16,6 +15,8 @@ Under Review and In Preparation
 
 **Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
+First Author and Co-first Author(<sup>1</sup>Equal contribution)
+======
 **2024**
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
