@@ -77,6 +77,7 @@ Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/cita
 **First Author and Corresponding Author(<sup>1</sup>Equal contribution, <sup>*</sup>Corresponding)** 
 
 **2024**
+
 **Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
