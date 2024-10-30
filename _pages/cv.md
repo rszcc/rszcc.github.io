@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20240718.pdf)
+Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241029.pdf)
 ----
 
 Education
@@ -34,8 +34,8 @@ Professional Experience
   
 Research Interests
 ======
-- Land use and land cover mapping under multi-source remote sensing
-- Impacts of climate change and extreme events on land surface dynamics
+- Land use and land cover change (water, wetlands, agriculture, forest, and urban)
+- Impacts of climate change, extreme events, and human activities on land surface dynamics
 - GeoAI
 
 Honors and Awards
@@ -74,9 +74,14 @@ Honors and Awards
 
 Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/citations?user=btas8y0AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Chenchen-Zhang-28))
 ======
-**First Author and Co-first Author(<sup>1</sup>Equal contribution)** 
+**First Author and Corresponding Author(<sup>1</sup>Equal contribution, <sup>*</sup>Corresponding)** 
 
 **2024**
+**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
+
+**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
+
+Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup>**. Mapping paddy rice in Northeast China during 2019-2023 with automatic sampling and deep learning. (Submitted)
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
 
@@ -105,6 +110,7 @@ Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of
 **Co-author** 
 
 **2024**
+Meng, C., Xiao, X., Wagle, P., **Zhang, C.**, Pan, L., Pan, B., ... & Newman, G. S. (2024). Exponential or Unimodal Relationships Between Nighttime Ecosystem Respiration and Temperature at the Eddy Covariance Flux Tower Sites. Ecology Letters, 27(10), e14532. [[Full text]](https://doi.org/10.1111/ele.14532)
 
 Pan, L., Xiao, X., Pan, B., Meng, C., Staebler, R. M., **Zhang, C.**, & Qin, Y. (2024). Interannual variations and trends of gross primary production and transpiration of four mature deciduous broadleaf forest sites during 2000–2020. Remote Sensing of Environment, 304, 114042. [[Full text]](https://doi.org/10.1016/j.rse.2024.114042)
 
@@ -143,7 +149,7 @@ He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). L
 Conference Presentations
 ======
 **2024**
-
+  - **Zhang, C.** (2024, October). Widespread decline in surface and terrestrial water resources in Northeast Asia. Microbiology and Plant Biology Seminar. Norman, OK, USA (Oral presentation)
   - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, August). Mapping paddy rice with a knowledge-based algorithm and time series optical, microwave, and thermal imagery, ESA annual meeting 2024. (PS 36-005). Long Beach, CA, USA (Poster)
   - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, April). Mapping paddy rice with an enhanced knowledge-based algorithm and time series optical (Sentinel-2 and Landsat), microwave (Sentinel-1), and thermal (MODIS) imagery. IALE-North America Annual Meeting 2024 (P-46). Oklahoma City, OK, USA (Poster) [**Best Student Poster**](https://www.ialena.org/awards.html)
 
@@ -175,12 +181,14 @@ Services and Outreach
 ======
 **Scientific workshops**
 
-* **2022-2024** I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 61 webinars by July 2024. 
+* **2022-2024** I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 64 webinars by Oct. 2024. 
+* **2023** I participated in the GIS Day at the Oklahoma State Capitol and taught people from the public and private sectors how to use the free tools on the CEOM website to explore land cover change, land surface temperature changes, and field photos from around the world.
 
+* **2022** I attended the GIS Day at the University of Oklahoma and presented the recent progress from the CEOM in land cover/land use mapping and GPP modeling. I also showed the use of instruments to faculty and students from different majors, including LAI-2200c, ASD, PSR+, and UAV.
+* 
 **Scientific conferences**
 
-* **2024** I served as a Student/Early Career Convener for the American
-Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
+* **2024** I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaison for the American Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
 
 * **2023** I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
 
@@ -211,6 +219,8 @@ Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, driv
  * _Land_
   
  * _All Earth_
+ * _Fire_
+ * _Drones_
 
 Professional Affiliations
 ======
