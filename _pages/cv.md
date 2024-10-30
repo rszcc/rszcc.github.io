@@ -111,6 +111,7 @@ Huang, C., **Zhang, C.<sup>1</sup>**, Li, H. (2022). Assessment of the impact of
 **Co-author** 
 
 **2024**
+
 Meng, C., Xiao, X., Wagle, P., **Zhang, C.**, Pan, L., Pan, B., ... & Newman, G. S. (2024). Exponential or Unimodal Relationships Between Nighttime Ecosystem Respiration and Temperature at the Eddy Covariance Flux Tower Sites. Ecology Letters, 27(10), e14532. [[Full text]](https://doi.org/10.1111/ele.14532)
 
 Pan, L., Xiao, X., Pan, B., Meng, C., Staebler, R. M., **Zhang, C.**, & Qin, Y. (2024). Interannual variations and trends of gross primary production and transpiration of four mature deciduous broadleaf forest sites during 2000–2020. Remote Sensing of Environment, 304, 114042. [[Full text]](https://doi.org/10.1016/j.rse.2024.114042)
@@ -182,16 +183,16 @@ Services and Outreach
 ======
 **Scientific workshops**
 
-* **2022-2024** I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 64 webinars by Oct. 2024. 
-* **2023** I participated in the GIS Day at the Oklahoma State Capitol and taught people from the public and private sectors how to use the free tools on the CEOM website to explore land cover change, land surface temperature changes, and field photos from around the world.
+* [**2022-2024**] I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 64 webinars by Oct. 2024. 
+* [**2023**] I participated in the GIS Day at the Oklahoma State Capitol and taught people from the public and private sectors how to use the free tools on the CEOM website to explore land cover change, land surface temperature changes, and field photos from around the world.
 
-* **2022** I attended the GIS Day at the University of Oklahoma and presented the recent progress from the CEOM in land cover/land use mapping and GPP modeling. I also showed the use of instruments to faculty and students from different majors, including LAI-2200c, ASD, PSR+, and UAV.
+* [**2022**] I attended the GIS Day at the University of Oklahoma and presented the recent progress from the CEOM in land cover/land use mapping and GPP modeling. I also showed the use of instruments to faculty and students from different majors, including LAI-2200c, ASD, PSR+, and UAV.
 * 
 **Scientific conferences**
 
-* **2024** I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaison for the American Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
+* [**2024**] I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaison for the American Geophysical Union (AGU) 2024 Fall Meeting session “Forest cover dynamics, drivers, and impacts under diverse human activities and climate change”.
 
-* **2023** I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
+* [**2023**] I served as a Student/Early Career Convener and Outstanding Student Presentation Awards (OSPA) Liaisons for the AGU 2023 Fall Meeting session “Advances in land cover and land use changes: data products, driving factors, and impacts”.
 
 **Journal referee**
 
