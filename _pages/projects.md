@@ -15,6 +15,7 @@ author_profile: true
  - Water related land cover types include yearlong surface water, paddy rice, and natural wetlands.
  - We have developed a set of knowledge-based water-related land cover mapping algorithms based on each type's unique and stable optical and/or microwave signatures (associated with its biophysical features), by integrating multi-source (optical, SAR, thermal) remote sensing.
  - We consider the remote sensing capability and define water-related land cover  types in terms of plant growth form (tree, shrub, grass), life cycle (perennial, annual), leaf seasonality (evergreen, deciduous), and canopy type (open, closed).
+ - We are extending the work in Northeast China to Northest Asia by integrating Deep Learning methods.
  - We developed algorithms to detect the duration of surface water disappearance under extreme drought.
  - We have constructed a water/non-water database to study the surface and terrestrial water resources dynamics in Northeast Asia during 2000-2023. We have explored the impacts of climate and anthropogenic factors on water resources, and the pressures of water resource changes on populations.
 
