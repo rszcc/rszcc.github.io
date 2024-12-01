@@ -86,10 +86,6 @@ Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
 
-**Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
-
-**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (In preparation)
-
 **2023**
 
 **Zhang, C.**, Xiao, X., Zhao, L., Qin, Y., Doughty, R., Wang, X., ... & Yang, X. (2023). Mapping Eucalyptus plantation in Guangxi, China by using knowledge-based algorithms and PALSAR-2, Sentinel-2, and Landsat images in 2020. International Journal of Applied Earth Observation and Geoinformation, 120, 103348. [[Full text]](https://doi.org/10.1016/j.jag.2023.103348)
