@@ -28,6 +28,7 @@ Research Interests
 
 News 🌟
 ======
+ - [**Oct. 2024**] I just received a Graduate Student Senate (GSS) Conference Grant to attend the AGU 2024 meeting in Washington, D.C.!
  - [**Oct. 2024**] I just received the Cindy and Jizhong Zhou Graduate Student and Postdoctoral Award in Environmental Science and Technology, many thanks to Dr. Zhou and his wife!
  - [**Agu. 2024**] I also received an OU Dodge Family College of Arts and Sciences (DFCAS) Student Travel Grant to attend the ESA meeting in Long Beach, CA.
  - [**Jul. 2024**] I just received a Robberson Travel Grant to attend the Ecological Society of America (ESA) 2024 Annual Meeting in Long Beach, CA in August.
