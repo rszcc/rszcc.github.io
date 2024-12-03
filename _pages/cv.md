@@ -29,7 +29,7 @@ Education
 
 Professional Experience
 ======
-* **06/2020-07/2021**: Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences
+* **07/2020-07/2021**: Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences
   * Research Assistant
   
 Research Interests
@@ -72,13 +72,13 @@ Honors and Awards
 * Outstanding Undergraduate Thesis Award, Beijing Forestry University
   
 
-Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/citations?user=btas8y0AAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Chenchen-Zhang-28))
+Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/citations?hl=en&user=btas8y0AAAAJ&view_op=list_works&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Chenchen-Zhang-28))
 ======
 **First Author and Corresponding Author(<sup>1</sup>Equal contribution, <sup>*</sup>Corresponding)** 
 
 **2024**
 
-**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (Submitted)
+**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Climate-induced losses of surface and terrestrial water resources in Northeast Asia. (Submitted)
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
 
@@ -147,6 +147,7 @@ He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). L
 Conference Presentations
 ======
 **2024**
+  - **Zhang, C.** (2024, November). Mapping paddy rice with a knowledge-based algorithm and multi-source satellites. Ecomunch Seminar. Norman, OK, USA (Oral presentation)
   - **Zhang, C.** (2024, October). Widespread decline in surface and terrestrial water resources in Northeast Asia. Microbiology and Plant Biology Seminar. Norman, OK, USA (Oral presentation)
   - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, August). Mapping paddy rice with a knowledge-based algorithm and time series optical, microwave, and thermal imagery, ESA annual meeting 2024. (PS 36-005). Long Beach, CA, USA (Poster)
   - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, April). Mapping paddy rice with an enhanced knowledge-based algorithm and time series optical (Sentinel-2 and Landsat), microwave (Sentinel-1), and thermal (MODIS) imagery. IALE-North America Annual Meeting 2024 (P-46). Oklahoma City, OK, USA (Poster) [**Best Student Poster**](https://www.ialena.org/awards.html)
@@ -179,7 +180,7 @@ Services and Outreach
 ======
 **Scientific workshops**
 
-* [**2022-2024**] I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 64 webinars by Oct. 2024. 
+* [**2022-2024**] I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 65 webinars by Nov. 2024. 
 * [**2023**] I participated in the GIS Day at the Oklahoma State Capitol and taught people from the public and private sectors how to use the free tools on the CEOM website to explore land cover change, land surface temperature changes, and field photos from around the world.
 
 * [**2022**] I attended the GIS Day at the University of Oklahoma and presented the recent progress from the CEOM in land cover/land use mapping and GPP modeling. I also showed the use of instruments to faculty and students from different majors, including LAI-2200c, ASD, PSR+, and UAV.
