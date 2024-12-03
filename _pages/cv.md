@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241029.pdf)
+Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241203.pdf)
 ----
 
 Education
