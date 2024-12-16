@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241203.pdf)
+Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241216.pdf)
 ----
 
 Education
@@ -34,9 +34,15 @@ Professional Experience
   
 Research Interests
 ======
-- Land use and land cover change (water, wetlands, agriculture, forest, and urban)
-- Impacts of climate change, extreme events, and human activities on land surface dynamics
+- Land use and land cover change
+- Surface water and terrestrial water storage dynamics
+- Wetland classification and monitoring
+- Agriculture monitoring and its driving factors
+- Forest/plantation change and carbon storage
+- Urban expansion
+- Impacts of climate change, extreme events, and human activities
 - GeoAI
+- Time series analysis
 
 Honors and Awards
 ======
