@@ -9,14 +9,20 @@ redirect_from:
 
 Hi! I am a Ph.D. candidate majoring in Ecology and Evolutionary Biology at University of Oklahoma (OU), working with the mentorship of Prof. [Xiangming Xiao](https://scholar.google.com/citations?user=71350TcAAAAJ&hl=en) at Center for Earth Observation and Modeling [(CEOM)](https://www.ceom.ou.edu/).
 
-🌟🌟🌟 I am looking for a postdoc position and can start as early as JUNE 1, 2025. 🌟🌟🌟
 =====
 
 Research Interests
 ======
- - Land use and land cover change (water, wetlands, agriculture, forest, and urban)
- - Impacts of climate change, extreme events, and human activities on land surface dynamics
- - GeoAI
+  - Land use and land cover change
+  - Surface water and terrestrial water storage dynamics
+  - Wetland classification and monitoring
+  - Agriculture monitoring and its driving factors
+  - Forest/plantation change and carbon storage
+  - Urban expansion
+  - Impacts of climate change, extreme events, and human activities
+  - GeoAI
+  - Time series analysis
+
 
 **[Projects](https://rszcc.github.io//projects/)**
 
