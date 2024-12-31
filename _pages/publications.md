@@ -11,11 +11,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Under Review and In Preparation
 ======
 
-**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Widespread decline in surface and terrestrial water resources in Northeast Asia. (Submitted)
+**Zhang, C.**, Xiao, X., Wang, X., Yi, S., Meng, C., Qin, Y., ... & Dong, J. Climate-induced losses of surface water and total water storage in Northeast Asia. (Submitted)
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
 
-Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup>**. Mapping paddy rice in Northeast China during 2019-2023 with automatic sampling and deep learning. (Submitted)
+Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup>**. Monitoring paddy rice cultivation adjustments in Northeast China through time series remote sensing and deep learning. (Submitted)
 
 First Author and Co-first Author(<sup>1</sup>Equal contribution)
 ======
