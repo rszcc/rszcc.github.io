@@ -8,7 +8,7 @@ author_profile: true
 ## Scientific workshops
 
 **2022-present**
-* I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)]((https://www.ceom.ou.edu/outreach/workshops/content/10)) and have held 64 webinars by Oct. 2024. 
+* I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)]((https://www.ceom.ou.edu/outreach/workshops/content/10)) and have held 66 webinars by Dec. 2024. 
 
 ## Scientific conferences
 
