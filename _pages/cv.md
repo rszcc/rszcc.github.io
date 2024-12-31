@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241216.pdf)
+Full CV download [here](http://rszcc.github.io/files/CV_Chenchen_Zhang_full_20241231.pdf)
 ----
 
 Education
@@ -88,7 +88,7 @@ Peer-Reviewed Journal Articles ([Google Scholar](https://scholar.google.com/cita
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. Mapping paddy rice in Northeast China with a knowledge-based algorithm and time series optical, microwave, and thermal imagery. (Under review after revision)
 
-Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup>**. Mapping paddy rice in Northeast China during 2019-2023 with automatic sampling and deep learning. (Submitted)
+Wang, S., Huang, C., Huang, L., Xu, X., Shi, H., Gu, Q., & **Zhang, C<sup>*</sup>**. Monitoring paddy rice cultivation adjustments in Northeast China through time series remote sensing and deep learning. (Submitted)
 
 **Zhang, C.**, Xiao, X., Wang, X., Qin, Y., Doughty, R., Yang, X., ... & Dong, J. (2024). Mapping wetlands in Northeast China by using knowledge-based algorithms and microwave (PALSAR-2, Sentinel-1), optical (Sentinel-2, Landsat), and thermal (MODIS) images. Journal of Environmental Management, 349, 119618. [[Full text]](https://doi.org/10.1016/j.jenvman.2023.119618)
 
@@ -153,6 +153,7 @@ He, Y., Huang, C., Li, H., Liu, Q., Liu, G., Zhou, Z., & **Zhang, C.** (2019). L
 Conference Presentations
 ======
 **2024**
+  - **Zhang, C.**, Xiao, X., Yin, L., Wang, X., Qin, Y., Meng, C., … & Dong, J. (2024, December). Water-related Land Cover Mapping through Multi-Source Remote Sensing and Deep Learning. AGU Fall Meeting 2024 (H53N-1297). Washington, D.C., USA (Poster)
   - **Zhang, C.** (2024, November). Mapping paddy rice with a knowledge-based algorithm and multi-source satellites. Ecomunch Seminar. Norman, OK, USA (Oral presentation)
   - **Zhang, C.** (2024, October). Widespread decline in surface and terrestrial water resources in Northeast Asia. Microbiology and Plant Biology Seminar. Norman, OK, USA (Oral presentation)
   - **Zhang, C.**, Xiao, X., Wang, X., & Qin, Y. (2024, August). Mapping paddy rice with a knowledge-based algorithm and time series optical, microwave, and thermal imagery, ESA annual meeting 2024. (PS 36-005). Long Beach, CA, USA (Poster)
@@ -186,7 +187,7 @@ Services and Outreach
 ======
 **Scientific workshops**
 
-* [**2022-2024**] I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 65 webinars by Nov. 2024. 
+* [**2022-2024**] I serve as the contact person and moderator for the International Forum on Ecology and Evolution of Avian Influenza [(IFEEAI)](https://www.ceom.ou.edu/outreach/workshops/content/10) and have held 66 webinars by Dec. 2024. 
 * [**2023**] I participated in the GIS Day at the Oklahoma State Capitol and taught people from the public and private sectors how to use the free tools on the CEOM website to explore land cover change, land surface temperature changes, and field photos from around the world.
 
 * [**2022**] I attended the GIS Day at the University of Oklahoma and presented the recent progress from the CEOM in land cover/land use mapping and GPP modeling. I also showed the use of instruments to faculty and students from different majors, including LAI-2200c, ASD, PSR+, and UAV.
